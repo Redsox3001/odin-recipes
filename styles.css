@@ -1,6 +1,6 @@
 div img{
-    width: 650px;
-    height:500px;
+    width: 400px;
+    height:400px;
 }
 .item img:hover{
     transform: scale(1.05);
